@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "5g1800_2024-08-26",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "Nazwa Operatora": "P4 Sp. z o.o.", "Nr Decyzji": "MNET/4/6035/6/23", "Rodzaj decyzji": "zmP", "Data ważności": "2027-08-31", "Dł geogr stacji": 52.4508333333333, "Szer geogr stacji": 21.0077777777778, "Miejscowość": "Zegrze Południowe", "Lokalizacja": "Warszawska 32, Zegrze Południowe Warszawska 32", "IdStacji": "LGI4409", "TERYT": 1408032 }, "geometry": { "type": "Point", "coordinates": [ 21.0077777777778, 52.4508333333333 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "Nazwa Operatora": "P4 Sp. z o.o.", "Nr Decyzji": "MNET/4/8833/4/23", "Rodzaj decyzji": "zmP", "Data ważności": "2030-01-31", "Dł geogr stacji": 52.406388888888898, "Szer geogr stacji": 20.906666666666698, "Miejscowość": "Legionowo", "Lokalizacja": "Mazowiecka 52a, Legionowo Mazowiecka 52a", "IdStacji": "LGI1006", "TERYT": 1408011 }, "geometry": { "type": "Point", "coordinates": [ 20.906666666666698, 52.406388888888898 ] } }
+]
+}
